@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
 	vendor/xiaomi/mione_plus/proprietary/lib/libv8.so:obj/lib/libv8.so \
 	vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:obj/lib/libnv.so \
 	vendor/xiaomi/mione_plus/proprietary/lib/liboncrpc.so:obj/lib/liboncrpc.so \
-   vendor/xiaomi/mione_plus/proprietary/lib/librpc.so:obj/lib/librpc.so \
 
 PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
